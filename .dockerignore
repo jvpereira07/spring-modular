@@ -1,0 +1,13 @@
+# Git / IDE
+.git
+.gitignore
+.idea
+.vscode
+**/.DS_Store
+
+# Maven build output
+**/target/
+
+# Logs
+**/*.log
+
